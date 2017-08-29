@@ -1,0 +1,13 @@
+html, body {
+    background-color: yellowgreen;
+    font-family: 'Oswald', sans-serif;
+    color: brown;
+}
+
+.container {
+    width: 40%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+}
