@@ -1,6 +1,6 @@
 html, body {
-    background-color: yellowgreen;
-    font-family: 'Oswald', sans-serif;
+    /* background-color: yellowgreen; */
+    font-family: 'Encode Sans Semi Condensed', sans-serif;
     color: brown;
 }
 
@@ -10,4 +10,19 @@ html, body {
     margin-left: auto;
     margin-right: auto;
     margin-top: 10%;
+}
+
+.author {
+    font-size: 4em;
+    margin-bottom: .5em;
+    margin-top: .5em;
+
+}
+
+#author_img{
+    width: 10em;
+}
+
+.social_links{
+    margin-top: 1em;
 }
