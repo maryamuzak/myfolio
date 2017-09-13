@@ -26,3 +26,7 @@ html, body {
 .social_links{
     margin-top: 1em;
 }
+
+.img-circle{
+    border-radius: 50%;
+}
