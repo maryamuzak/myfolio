@@ -1,0 +1,53 @@
+html, body {
+    background-color:black;
+    font-family: 'Encode Sans Semi Condensed', sans-serif;
+    color:white;
+}
+
+.container {
+    width: 40%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+}
+
+.author {
+    font-size: 4em;
+    margin-bottom: .1em;
+    margin-top: .5em;
+
+}
+
+#author_img{
+    /* width: 200%;
+    position: absolute;
+    left: -50; */
+    width: 10em;
+    border-radius: 50%
+}
+
+.social_links{
+    margin-top: 1em;
+}
+
+.circled{
+    border-radius: 50%;
+    width:10em;
+    height: 10em;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+
+}
+
+.social-icons{
+    margin-top: .7em;
+    
+}
+
+.social-icons > a {
+    color:white;
+
+}
